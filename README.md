@@ -1,4 +1,4 @@
-# Server
+# Generic Resource Nodejs Server
 
 This is a generic NodeJs server and is configured with:
 - token auth(user and pass)
